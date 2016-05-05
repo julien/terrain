@@ -1,7 +1,9 @@
 .DS_Store
 bin/*.app
+bin/libs
 bin/terrain
 obj
 *.xcconfig
 *.plist
+*.qbs*
 *.xcodeproj
